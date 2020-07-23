@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <menu>
+        <options var="view">
+            <option name='roe' value="roe" msg="" />
+        </options>
+    </menu>
+    <state switch="view">
+        <presentation>
+            <url>
+                <param name="view" type="list" default="" label="Show" description="Page to show">
+                    <option value="">Main page of shop</option>
+                    <option value="roe">roe</option>
+                </param>
+            </url>
+        </presentation>
+    </state>
+</metadata>

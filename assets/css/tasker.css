@@ -1,0 +1,11 @@
+a.modal{
+    position: unset;
+    top: unset;
+    right: unset;
+    bottom: unset;
+    left: unset;
+    z-index: unset;
+    display: inline-block;
+    overflow: unset;
+    outline: unset;
+}
